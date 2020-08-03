@@ -1,0 +1,14 @@
+UartControl	KEYWORD1
+click	KEYWORD2
+rightClick	KEYWORD2
+leftDown	KEYWORD2
+leftUp	KEYWORD2
+rightDown	KEYWORD2
+rightUp	KEYWORD2
+middleDown	KEYWORD2
+middleUp	KEYWORD2
+moveCursor	KEYWORD2
+getCursorX	KEYWORD2
+getCursorY	KEYWORD2
+keyPress	KEYWORD2
+begin	KEYWORD2
